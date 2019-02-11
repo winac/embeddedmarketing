@@ -1669,7 +1669,7 @@
 
 	h1 {
 		font-size: 3.5em;
-		margin-bottom: .25em;
+		margin-bottom: .05em;
 	}
 
 		@media screen and (max-width: 736px) {
